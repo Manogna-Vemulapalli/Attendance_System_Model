@@ -13,4 +13,5 @@ It detects and identifies students from a dataset, marks them as **Present** or 
 Note :
  **Ensure your dataset folder is correctly structured.
  **The attendance log will be saved to attendance_log.csv
+ 
  **Press q to exit.**
