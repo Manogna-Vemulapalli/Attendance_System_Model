@@ -6,8 +6,11 @@ It detects and identifies students from a dataset, marks them as **Present** or 
 ## Installation or Setup Process 
 1. CLone the repository
 2. Install the dependencies (requirements)
-3. Run the System (Attendance_Emotion_System.py file)
+3. place you dataset
+4. place the converted_model.keras file in the project directory.
+5. Run the Attendance System
 
 Note :
  **Ensure your dataset folder is correctly structured.
  **The attendance log will be saved to attendance_log.csv
+ **Press q to exit.**
